@@ -2,6 +2,8 @@
 
 ## Usage
 
+install
+
 ```bash
 npm i @lightgreen/svg-preview --save-dev
 ```
